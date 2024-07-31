@@ -2,7 +2,7 @@
 This repository contains all the dataset, codes for our work on quantifying and analyzing media bias at aspect level granularity.
 
 ## Table of Contents
-[train](#train) This file contains all the manually annotated dataste with topic, aspect and sentiment labels  
+[train](#annotated_data/train) This file contains all the manually annotated dataste with topic, aspect and sentiment labels  
 
 [dev](#dev) This file contains validation data for sentence level news aspect based sentiment lables  
 
