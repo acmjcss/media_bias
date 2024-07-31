@@ -6,8 +6,6 @@ This repository contains all the dataset, codes for our work on quantifying and 
 
 [dev](annotated_data/train)  This file contains validation data for sentence level news aspect based sentiment lables  
 
-[test](#test) This contains test file with sentence, aspect and sentiment labels  
-
 [output](#output) This file contains a portion of our system genertated annotated dataset  
 
 
