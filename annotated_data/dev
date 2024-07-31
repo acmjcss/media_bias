@@ -1,0 +1,1453 @@
+[
+    {
+        "sentence": "[unused] The order explained that both the government and farmers should take the court \u2019 s effort to form a committee in the \u201c right spirit \u201d and consider it an attempt to reach a \u201c fair , equitable and just solution to problems \u201d .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Withdraw black laws , \u201d tweeted Mr. Surjewala .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Sikh Labour MP Tanmanjeet Singh Dhesi wrote a letter pledging support for the protests signed by 35 MPs Last modified on Wed 9 Dec 2020 18.22 EST Boris Johnson has been labelled \u201c absolutely clueless \u201d after a parliamentary gaffe where he appeared to confuse massive farmers \u2019 protests that have closed down swathes of India with the ongoing conflict between India and Pakistan .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] India marks its founding as a republic on Tuesday with a military parade in the historic city centre , but the farmers , who are demanding a rollback of Prime Minister Narendra Modi \u2019 s deregulation effort , plan their own peaceful show of strength .\n",
+        "aspect list": [
+            "farmer protest",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] REUTERS/Adnan Abidi A farmer puts a flag on top of the historic Red Fort , during a protest against farm laws introduced by the government , in Delhi , India , January 26 .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Addressing the protesters , Bharatiya Kisan Union ( Rajewal ) president Balbir Singh Rajewal claimed that the agitation against the anti-farm laws has now snowballed into a mass movement .\n",
+        "aspect list": [
+            "farmer protest",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] REUTERS/Anushree Fadnavis A farmer runs behind a police officer during a protest against farm laws introduced by the government , in New Delhi , India , January 26 , 2021 .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] File | Photo Credit : Sushil Kumar Verma Protesting farm unions under the banner of the Samyukt Kisan Morcha plan to block the Western Peripheral Expressway surrounding Delhi from 8 am on Saturday to 8 am on Sunday .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] It attributed the downgrade to increased pressure on human rights groups , journalists and activists , and targeting of minorities , since 2014 , when Mr Modi swept to power .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] The Chief Minister condemned the incident and said that \u201c farmers don \u2019 t have a violent temperament \u201d , and the incident was the work \u201c forces that have vested interests and are using farmers \u201d .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] There were many who also criticised the singer for wading into the protests against the laws that have been defended by the government and its supporters .\n",
+        "aspect list": [
+            "International involvement",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] The Dilli Chalo Karshaka Samara Aikyadardya Samithi in the State had organised an online convention to mark the day on Tuesday evening .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Mr. Yadav said that farmers from five States \u2013 Haryana , Punjab , Rajasthan , Uttar Pradesh and Uttarakhand \u2013 were scheduled to gather at five points on November 26 morning and march towards Delhi .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] New York Times reporters in the area saw wounded people carried away who said they had been hurt when a tractor tipped over .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] They hoisted green flags in their courtyards and displayed their produce , along with a banner against the farm laws .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Thousands of farmers , mostly from Punjab , Haryana and western Uttar Pradesh have been camping at three Delhi border points \u2013 Singhu , Tikri and Ghazipur \u2013 for almost six months , demanding a repeal of the three agri reform laws enacted by the Central government in September last year .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Bharatiya Kisan Union ( Chaduni ) president Gurnam Singh said the BJP-JJP MLAs were trying to instigate farmers and Mr. Babli \u2019 s visit was the latest in the series .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] There were also apprehensions that the existing APMC markets and the minimum support price mechanism will cease and farmers would be at the mercy of the vagaries of market .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] \u201c The agitators chose the path of violence and destruction. \u201d Several rounds of talks between the farmers and the government over the new laws failed to bring a resolution .\n",
+        "aspect list": [
+            "farmer protest",
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] REUTERS/Adnan Abidi Police use tear gas to disperse demonstrators during a protest against farm laws introduced by the government , in New Delhi , India , January 26 , 2021 .\n",
+        "aspect list": [
+            "farmer protest",
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] In some areas , police officers beat protesters with their sticks to push them back .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Later , the farmers staged a sit-in on the road .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] It was the most violent escalation in two months of generally peaceful protests that have tested the government of Prime Minister Narendra Modi in unprecedented ways , forcing it to offer concessions to aggrieved farmers on new market-friendly laws that were intended to overhaul the country \u2019 s agriculture sector .\n",
+        "aspect list": [
+            "farmer protest",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Discover Thomson Reuters By Reuters Staff 2 Min Read NEW DELHI ( Reuters ) - Indian farmers who have been protesting for months against deregulation of produce markets plan to block a major expressway outside New Delhi on Saturday , the 100th day of their campaign , they said .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] One farmer was killed when his tractor flipped over near India \u2019 s Supreme Court .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] The court formed a four-member committee of experts \u201c to listen to the grievances of the farmers on the farm laws and the views of the government and make recommendations \u201d .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] REUTERS/Anushree Fadnavis Protesters overturn a trailer during a tractor rally to protest against farm laws on the occasion of India 's Republic Day at Tikri border near New Delhi , India , January 26 .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] REUTERS/Adnan Abidi Farmers are showered with flower petals as they head towards Delhi during a tractor rally to protest against farm laws on the occasion of India 's Republic Day at Tikri border near New Delhi , India , January 26 .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Indian farmers clash with police over reforms .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] The agitating farmers also raised slogans against the government and said that the stir will go on till their demand for revoking the new laws was not accepted .\n",
+        "aspect list": [
+            "farmer protest",
+            "farmer protest",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Farmers on more than 200 tractors , and hundreds of other farmers and farm workers on foot , participated in the six kilometre tractor rally from Mandad to Muttil in this hill district .\n",
+        "aspect list": [
+            "farmer protest",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] REUTERS/Anushree Fadnavis Farmers take part in a tractor rally to protest against farm laws on the occasion of India 's Republic Day in Delhi , India , January 26 .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] The government - which says the agriculture reforms will boost farmer incomes - has agreed to suspend the laws , but the farmers have said New Delhi must repeal them .\n",
+        "aspect list": [
+            "Farm law",
+            "government action",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] The government says the new laws will open up opportunities for farmers .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] The BBC 's Rajini Vaidyanathan speaks to the farmers at the border to find out why they 're so angry with the government 's new reforms .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] But on India \u2019 s Republic Day , as Mr. Modi watched a military parade in central Delhi , farmers streamed into the city , using tractors to remove barricades .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] REUTERS/Adnan Abidi Protesters cheer after overturning a trailer during a tractor rally to protest against farm laws on the occasion of India 's Republic Day at Tikri border near New Delhi , India , January 26 .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] They also took exception to the language used by Prime Minister Narendra Modi , wherein he has said that \u201c no one could stop him \u201d from going ahead with the reforms .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Both sides have met for several rounds of negotiations but failed to make any headway , and farmers ' unions have vowed to carry on the protests until the laws are rolled back .\n",
+        "aspect list": [
+            "government action",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Rihanna 's tweet on Tuesday linked to a news story about the internet blockade at the protest sites .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] But the Indian government 's response to the protest - which has included criminal charges against eight journalists , the controversial arrest of a 22-year-old activist and a spat with pop star Rihanna - has sparked anger and criticism in India as well .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Indian farmers have been protesting for months against agricultural reforms .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] A large number of the protesting farmers are from Punjab , a predominantly Sikh part of the country .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] But there are lingering concerns that \u201c anti-national people \u201d may seek to foment trouble during the demonstration , Delhi Police Commissioner S.N .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Video , 00:01:08Indian farmers clash with police over reforms French President Macron slapped by member of public .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Scores of trade union activists and farmers staged a demonstration in Mysuru on Tuesday demanding the abrogation of the farm laws against which farmers were agitating across the country .\n",
+        "aspect list": [
+            "farmer protest",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Senior police officer Dependra Pathak said the city police would allow at least 12,000 tractors on Delhi \u2019 s roads to move over a 100 km ( 62.14 mile ) stretch away from the centre on Jan. 26 after the parade .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] But the main thing is that this agitation has to succeed , \u201d he said .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] By choosing to carry out the tractor march on a day that eyes would be fixed on New Delhi for the parade ( guests in previous years included the presidents of the United States , Russia and France ) , the farmers were aiming for a show of force .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] A Nishan Sahib flag is hoisted on the flagstaff of the Red Fort as the protesting farmers entered the complex in New Delhi on January 26 , 2021 .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] To maintain the law-and-order situation , we had to use water cannons and tear gas after the agitators broke the barricades that were erected on roads leading to the event site , \u201d Ganga Ram Punia , Superintendent of Police , Karnal , told The Hindu .\n",
+        "aspect list": [
+            "government action",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Mr. Lal said that the local administration [ in Karnal ] had spoken to the protesters , and the protesters had assured that they would only hold a symbolic peaceful protest in the village and would not resort to any agitation during the event .\n",
+        "aspect list": [
+            "government action",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] A group of farmers sit in a trolley at Singhu border in New Delhi on January 27 , 2021 | Photo Credit : SHIV KUMAR PUSHPAKAR A day after violence in Delhi , it was business as usual at the Singhu border with protesters speaking on stage one after the other but the crowd seemed less than usual and spirit lower than every day .\n",
+        "aspect list": [
+            "farmer protest",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] They were of the view that the government had twisted facts on the talks and claimed modesty , but the representations sent by them for the withdrawal of the laws had been turned down .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Some even said they were aggrieved by the stay .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] The farmers have blocked rail tracks at many places including Dhablan ( Patiala ) , Sunam ( Sangrur ) , Budhlada ( Mansa ) , Gidderbaha ( Muktsar ) , Barnala , Bathinda , Faridkot , Gurdaspur , Rupnagar , Phillaur , Samrala and Moga .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] In Ferozepur , women have also joined farmers who have been agitating at a rail track near Basti Tankan Wali .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Barricades were put at all the entry points to stop the farmers from going towards the Minister \u2019 s residence , said the farmers .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] For nearly two weeks , farmers from across India have been protesting at the Delhi border against new market-friendly reforms that they say are against their interests .\n",
+        "aspect list": [
+            "farmer protest",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Thousands of them have gathered to voice their discontent and on Tuesday , they called on the rest of India to join them in a national strike .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Talks between farmers and Modi \u2019 s government have so far failed to break the deadlock - landing Modi with one of his most significant challenges since he was re-elected in 2019 .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Leading the protest by activists of the Left parties , Communist Party of India ( CPI ) Prakasam district secretary M.L.Narayana said weakening of the Agriculture Market Committees would deny a fair price for the produce of farmers .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Three contentious laws that will change the way India 's farmers do business have sparked one of India 's biggest protests and a months-long standoff with the government .\n",
+        "aspect list": [
+            "Farm law",
+            "Farm law",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Taken together , the reforms will loosen rules around sale , pricing and storage of farm produce - rules that have protected India 's farmers from the free market for decades .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] However , the Delhi government denied police permission to convert nine stadiums into temporary jails for farmers .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Unions want to repeal the laws , which they say are anti-farmer and pro-corporate interests .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] He said : \u201c I took part in this protest to the Delhi border because the central government has sold out the farmers with these new laws , which did not have any consultation or input from farmers .\n",
+        "aspect list": [
+            "Farm law",
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] The protests ignited because many farmers fear that the laws will eventually kill both the subsidies and the mandi system .\n",
+        "aspect list": [
+            "Farm law",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] The protests will conclude at 6 p.m. with a \u2018 Prathishedha Pantham \u2019 ( torch of protest ) being lit in every household .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] REUTERS/Adnan Abidi Farmers cross a barricade during a tractor rally to protest against farm laws on the occasion of India 's Republic Day in Delhi , India , January 26 .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] While the MLA alleged that the farmers smashed his vehicle \u2019 s windscreen , the farmers said Mr. Babli hurled abuses and instigated the protesters .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Discover Thomson Reuters By Manoj Kumar 3 Min Read NEW DELHI ( Reuters ) - Caravans of tractors clogged a key highway in northern India on Monday as tens of thousands of farmers protesting against agriculture reforms streamed into the capital ahead of Republic Day , and police said they were prepared to deal with the crowds .\n",
+        "aspect list": [
+            "farmer protest",
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Delhi \u2019 s police said protesters have been told to use three main routes for the tractor procession , which had been agreed upon after six days of discussion with farmer leaders .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] However , farmers say the laws will leave them at the mercy of corporations by taking away the safety net of guaranteed prices for certain crops , and leave them at greater risk of losing their land .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] They have also objected to the laws being introduced without consultation , accusing the government of ramming the changes down their throats .\n",
+        "aspect list": [
+            "government action",
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] After tweets from the singer Rihanna and the Swedish environmentalist Greta Thunberg drew attention to the farmers , the external affairs ministry released a statement condemning celebrities who it said were \u201c rushing to comment on such matters \u201d without a \u201c proper understanding of the issues \u201d .\n",
+        "aspect list": [
+            "International involvement"
+        ]
+    },
+    {
+        "sentence": "[unused] He said : \u201c They are protesting because they are predominantly small farmers on less than five acres , many of them very poor .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Tahir Ali , the MP for Birmingham Hall Green , said Modi and his party , the BJP , had \u201c responded to the protests with repression \u201d .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] The Kisan Mazdoor Sangharsh Committee , a defiant Punjab union which was the first to break from the agreed route , blamed \u201c anti-social elements \u201d .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] There is a conspiracy to give a bad name to farmers , '' he told The Hindu , noting that protesting farmers have conducted a peaceful agitation for the last seven months since the three laws were initially brought in as ordinances .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] The government said the shutdown was to `` maintain public safety '' .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Farmers ' groups and union leaders condemned the violence but said they would not call off the protest .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Hours after Rihanna 's tweet , Greta Thunberg also tweeted in support of the farmers .\n",
+        "aspect list": [
+            "farmer protest",
+            "International involvement"
+        ]
+    },
+    {
+        "sentence": "[unused] US Vice President Kamala Harris 's niece Meena Harris also posted in solidarity with the striking farmers .\n",
+        "aspect list": [
+            "farmer protest",
+            "International involvement"
+        ]
+    },
+    {
+        "sentence": "[unused] Farmers fear that the new laws will threaten decades-old concessions - such as assured prices - and weaken their bargaining power , leaving them vulnerable to exploitation by private companies .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Superintendent of Police , Palwal , Deepak Gahlawat said the protesters were threatened with legal action in connection with the violence and were told to leave following which they decided to vacate the premises .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] \u201c It will weaken the government , which will have to sit down with us to talk again. \u201d The government says the reforms will bring investment to the antiquated agriculture markets , and that new entrants would operate alongside government-regulated market yards , where farmers are assured of a minimum price for their produce .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Several rounds of talks between the government and farm leaders have failed and the movement has gained widespread support , including from international celebrities , posing one of the biggest challenges to Modi since he took power in 2014 .\n",
+        "aspect list": [
+            "government action",
+            "farmer protest",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Last week , farmers rejected an offer by the government to suspend the laws for 18 months , saying they would settle for nothing other than a complete repeal .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Ms. Ravi \u2019 s arrest , they said , has raised the crackdown to a new level .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Ms. Thunberg initially tweeted a link to the \u201c tool kit , \u201d which Indian authorities say was proof the young Swedish activist is part of an international conspiracy against India .\n",
+        "aspect list": [
+            "International involvement"
+        ]
+    },
+    {
+        "sentence": "[unused] \u201c Her day starts with educating people about climate change , \u201d Ms. Ravi \u2019 s friend Yuvan Aves said , \u201c and it ends at speaking for politically and marginalized groups. \u201d Tamanna Sengupta , a climate activist who has worked with Ms. Ravi , said the government arrested Ms. Ravi because they wanted to make her an example and dissuade others from helping farmers in their struggle .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Discover Thomson Reuters By Devjyot Ghoshal , Adnan Abidi 2 Min Read NEW DELHI ( Reuters ) - Dozens of farmers squatted on railway tracks in northern India on Friday , disrupting traffic to mark four months of a campaign against the opening up of agriculture produce markets to private players .\n",
+        "aspect list": [
+            "farmer protest",
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Farm unions called for a 12-hour nationwide shutdown to keep up the pressure on the Modi government which says the reforms will help farmers realise better prices for their produce and bring investment .\n",
+        "aspect list": [
+            "farmer protest",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] At a major protest camp in Delhi \u2019 s Ghazipur , protesters blocked a highway connecting the capital city with neighbouring Uttar Pradesh state .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Police also erected additional barricades , topped by concertina wire , and hundreds of personnel had been deployed .\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Several lawmakers in the U.K. have been supportive of the protesting farmers which even prompted the High Commission to come out with a statement recently in support of the laws .\n",
+        "aspect list": [
+            "farmer protest",
+            "International involvement",
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] Many of the protesters were maskless , shunning a basic protection against Covid-19 infection that risked turning the march into a super-spreader event .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] \u201c Once we make it inside Delhi , we \u2019 re not going anywhere until Modi repeals the law , \u201d said Happy Sharma , a farmer from the neighboring state of Uttar Pradesh who was among 27 people riding in a trailer behind a tractor .\n",
+        "aspect list": [
+            "Farm law"
+        ]
+    },
+    {
+        "sentence": "[unused] \u201c He is surrounded by thieves who have him by the neck. \u201d Some of the most violent clashes occurred at a junction near India \u2019 s income-tax office and an old headquarters of the police force as protesters tried to force their way toward the city center .\n",
+        "aspect list": [
+            "farmer protest"
+        ]
+    },
+    {
+        "sentence": "[unused] I hope the Bill will be passed soon. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Defence Minister Rajnath Singh on Tuesday welcomed the bill and said that it is in national interest. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] It seeks to provide citizenship to non Muslims from Pakistan Afghanistan and Bangladesh if they faced persecution in their countries The contentious Bill is set to be tabled next week in Parliament in the current Winter Session. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] It has been introduced in Lok Sabha by Home Minister Amit Shah today. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The contentious Citizenship Amendment Bill 2019 became an Act after President Ram Nath Kovind gave his assent to it on Thursday. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Premachandran said the bill violates the basic structure of the constitution and also Article 25 and Article 26. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] In this Bill we re protecting the social and linguistic uniqueness of the North East people. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused]  Former Indian High Commissioner to Bangladesh Deb Mukherjee along with two IAS officers on Friday moved the Supreme Court challenging the Citizenship Amendment Act 2019 which provides for citizenship to non Muslim refugees from Pakistan Bangladesh and Afghanistan. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] He said that the Bill has been brought to rectify a historic blunder the partition and give a dignified life to non Muslims of Pakistan Bangladesh and Afghanistan who fled religious persecution and settled in India before December 31 2014. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The bill is diversionary unconstitutional and violative of Article 14 he said.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Sami tweeted from his official handle The Citizenship Amendment Bill 2019 was passed with a majority of 311 votes against 80 votes in Lok Sabha where 391 members were present and voting.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Continuing his vile narrative against India Pakistan Prime Minister Imran Khan on Tuesday condemned Citizenship Amendment Bill which was passed in the Lok Sabha yesterday.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Roy cited provisions in the rules of procedure to oppose the bill. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Massive protests broke out in several parts of Assam against the Citizenship Amendment Bill (CAB), 2019 which was passed in Lok Sabha on Monday and It is feared that the protests could spill over to other parts of North East too as North East Students\u2019 Organisation (NESO) has called for an 11-hour bandh in North East.\n",
+        "aspect list": [
+            "protest"
+        ]
+    },
+    {
+        "sentence": "[unused] The CAB Bill is for religions that are being persecuted in Theocratic States. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] With the passing of this Bill lakhs of crores of people will get rid of torturous life and become citizens of India he told the Lower House. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] There is more political motivation behind the government s move than the will to serve the people of the country Pilot told ANI here.\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] It is for the betterment of citizens he said. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Manipur Education Minister Thokchom Radheshyam Singh on Monday said that people of the state are being instigated to protest against the Citizenship Amendment Bill CAB 2019. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Don t be scared of CAB Citizenship Amendment Bill. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The bill is not even 001 per cent against minorities of the countries he said Shah who faced constant interruptions from opposition members said the bill does not violate any provision of the constitution Shah said that the Muslim community has not been named in the Bill. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] I don t think the bill will pass the judicial scrutiny. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Through this Bill Indian citizenship will be provided to the members of Hindu Sikh Buddhist Jain Parsi and Christian communities who have come from the three countries to India till December 31 2014 to put an end to them being treated as illegal immigrants in the country. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The Citizenship Amendment Bill essentially talks about granting citizenship to non Muslim minorities experiencing religious persecution from neighbouring countries such as Pakistan Bangladesh and Afghanistan. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The amendment bill serves the communal policies of the Sangh Parivar and their devious plans to establish a non secular state. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] After the bill is passed crores of people will be free from a difficult life and become Indian citizens with respect he said. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Puducherry Chief Minister V Narayanasamy Thursday claimed the Citizenship (Amendment) Act \"ignores\" Muslims and that he will not implement the newly enacted law, as well as the NRC, in the Union Territory \"come what may\".\n",
+        "aspect list": [
+            "citizenship amendment bill",
+            "National Register of Citizens (NRC)"
+        ]
+    },
+    {
+        "sentence": "[unused] People of Kerala are against Citizenship Amendment Act he said.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Moving the Bill for passage in the Lok Sabha Home Minister Shah said that the Central government is committed to doing justice with lakhs of crore of people who are being subjected to religious persecution in the neighbouring countries. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] This CAB is dangerous for Assam we are next door neighbours to Bangladesh. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] All should come together on the streets and a non violent movement should be launched against NRC and CAB. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The Congress party and Indian Union Muslim League IUML has given Adjournment Motion Notice in Lok Sabha on Friday over protests in Assam and other parts of the country against the implementation of Citizenship Amendment Act.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The Bill has been tabled in the Rajya Sabha by Home Minister Amit Shah on Wednesday.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The bill was supported by Shiv Sena which is no longer with BJP though its other allies in Maharashtra government Congress and NCP strongly opposed the bill. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Shah said there was a need of bill because the country was divided on the basis of religion. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] He said the bill was for giving citizenship to religiously prosecuted minorities from Pakistan Bangladesh and Afghanistan He said unity in diversity was the strength of the country and tolerance was an attribute of the country. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The Citizenship Amendment Bill was passed by Parliament on Wednesday and came into effect with President Ram Nath Kovind giving his assent on Thursday night. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Opposing the Bill in the Lok Sabha Banerjee also termed the move against the ideals of Swami Vivekananda. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Speaking at a rally in Kharagpur TMC chief and West Bengal Chief Minister Mamata Banerjee said that no one can impose the CAB on the people of West Bengal so long she is in power in the state. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] In the wake of protests in the North East over The Citizenship Amendment Bill 2019 three Army columns have been put in Tripura and Assam.\n",
+        "aspect list": [
+            "protest"
+        ]
+    },
+    {
+        "sentence": "[unused] The Citizenship Amendment Bill 2019 seeks to grant Indian citizenship to non Muslim refugees from Pakistan Bangladesh and Afghanistan.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused]  West Bengal Chief Minister Mamata Banerjee on Wednesday asserted that her government will not allow implementation of National Register of Citizens (NRC) or National Population Register (NPR) in the state.\n",
+        "aspect list": [
+            "National Register of Citizens (NRC)"
+        ]
+    },
+    {
+        "sentence": "[unused] The Citizenship Amendment Bill 2019 is historic said Prime Minister Narendra Modi on Wednesday during a BJP parliament meeting ahead of today s session in Rajya Sabha where the bill will be tabled. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Former Maharashtra chief minister Devendra Fadnavis echoed similar sentiments and welcomed the Bill.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] According to the Act members of the Hindu Christian Sikh Buddhist and Zoroastrian communities who have come from Pakistan Afghanistan and Bangladesh till December 31 2014 and were facing religious persecution there will not be treated as illegal immigrants but will be given Indian citizenship. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] To protest against the passage of Citizenship Amendment Bill many districts in Assam on Monday observed a 12 hour shutdown and demonstrations were held in the several cities of the state. \n",
+        "aspect list": [
+            "protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Biju Janata Dal BJD MP Prasanna Acharya said We ll support Citizenship Amendment Bill but our suggestion is to include Sri Lanka in it because there were reports about mistreatment towards minorities there in the past. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Replying to members questions and allegations on the bill in the House the Home Minister said Under no dimension this bill is unconstitutional or is against Article 14. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The Citizenship Amendment Bill 2019 seeks to grant Indian citizenship to non Muslim refugees from Pakistan Bangladesh and Afghanistan. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Members of sexually-marginalised communities took out a protest march headed for the RSS headquarters here against the Citizenship Amendment Act, and the proposed nationwide National Register of Citizens (NRC) and the National Population Register (NPR).\n",
+        "aspect list": [
+            "protest"
+        ]
+    },
+    {
+        "sentence": "[unused] It is not right for us. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] It will finish the language and the culture of our state. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] The Lok Sabha on Monday took up the Bill over which the discussion is currently underway. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] It seeks to amend the Citizenship Act. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Congress member Shashi Tharoor also opposed its introduction. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Several thousand people participated in a march in Dharavi in Mumbai to protest against the Citizenship Amendment Act and the December 15 police action against Jamia Millia Islamia students.\n",
+        "aspect list": [
+            "protest"
+        ]
+    },
+    {
+        "sentence": "[unused] The Citizenship Act protests turned violent in Delhi's Seelampur area as protesters threw stones at policemen who fired at the crowd and used tear gas shells.\n",
+        "aspect list": [
+            "protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Article 15 of the Constitution prohibits all kinds of discrimination based on religion caste creed sex or birth of place but this bill violates this aspect of Article 15 also. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] It the Bill very clearly targets the Muslim community.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Congress leader Anand Sharma on Wednesday attacked the BJP saying that the Citizenship Amendment Bill is an assault on the foundations of the Constitution and fails the morality test while asserting that it was wrong to blame his party for the Partition. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Asserting that the Citizenship Amendment Bill was against the Preamble of the Constitution.\n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Opposition parties including Congress NCP TMC and DMK are protesting against the Bill which was passed by Lok Sabha on Monday with a majority of 311 votes against 80 in the Lower House where 391 members were present and voting. \n",
+        "aspect list": [
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Members of Tamil Nadu Muslim Munnetra Kazhagam staged a demonstration at Tamukkam and attempted to burn the copies of the bill, which was averted by the police.\n",
+        "aspect list": [
+            "protest",
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Members of various political outfits staged protests against the Citizenship Amendment Bill (CAB), here on Friday.\n",
+        "aspect list": [
+            "protest",
+            "citizenship amendment bill"
+        ]
+    },
+    {
+        "sentence": "[unused] Protests erupted throughout the country following passage of the Citizen Amendment Bill (CAB) on December 11 by India\u2019s parliament.\n",
+        "aspect list": [
+            "citizenship amendment bill",
+            "protest"
+        ]
+    },
+    {
+        "sentence": "[unused] Sudden scrapping of Rs 500 and Rs 1 000 denomination currency notes is just a political gimmick and an impractical move by the Central government Sarkar told reporters here document write googletag cmd push function googletag defineOutOfPageSlot 6516239 outofpage 1x1 desktop div gpt ad 1490771277198 0 addService googletag pubads googletag pubads enableSyncRendering googletag enableServices He said that Prime Minister Narendra Modi while announcing the scrapping of these currency notes specified four issues curbing black money stopping circulation of fake currencies preventing transaction of money by the terrorists and curbing corruption. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] The government has taken a measure aimed at the heart of the black cash economy. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Many locals said they had to return empty hand this morning while purchasing milk vegetables medicines in absence of adequate Rs 100 notes. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] Also scores of people yesterday were seen queueing up outside ATMs across the city to withdraw cash in lesser denominations. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] Centre has also not given any direction on the functioning of treasury he said adding discussion on this matter is progressing. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] After all how can one arrange so much of Rs 100 currency and below all of a sudden. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] A retired bank professional Rashmi Chavan said I don t know if such a move to curb corruption black money will be successful or not but people are certainly facing inconvenience with this. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] The state government s criticism is that fight against black money should have been implemented without causing difficulty to people and affecting the economy he said. \n",
+        "aspect list": [
+            "control black money"
+        ]
+    },
+    {
+        "sentence": "[unused] In an internal assessment by government on the impact of demonetisation, it has been found that scrapping of Rs 500 and Rs 1000 notes has crippled terror funding, fake currency rackets.\n",
+        "aspect list": [
+            "control black money"
+        ]
+    },
+    {
+        "sentence": "[unused] However in the short run it will impact the economy due to uncertainty and lack of clarity on the proposed steps. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] The tweet by the SP chief came hours after Prime Minister Narendra Modi on Sunday said the note ban by the Centre in 2016 helped reduce black money, increased tax compliance and ensured transparency.\n",
+        "aspect list": [
+            "control black money"
+        ]
+    },
+    {
+        "sentence": "[unused] Mishra said demonetization of Rs 500 and Rs 1000 notes is just a gimmick ahead of the Uttar Pradesh assembly polls. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] The Supreme Court is likely to hear on November 15 a plea by an Uttar Pradesh based lawyer challenging the demonetisation of Rs 500 and Rs 1 000 denomination currency notes by the central government saying it has caused hardship to the common man. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] Reopens DEL33 Eminent jurist Anil Divan who had argued the petition on blackmoney filed by Ram Jethmalani in the Supreme Court also termed the government s decision as a very good move which will help in curbing black economy. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] It was a hotly debated topic among commuters on suburban local trains where many of them favoured the move expecting it to bring desired results. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] The Chief Minister said the Union Government should make all efforts for a smooth transition so that common people small traders daily wage earners and those living in interior areas and not having access to banks do not suffer any hardship. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] CPM general secretary Sitaram Yechury said, \"Mr Modi and his minions claimed demonetization will end black money, finish corruption, terminate terrorism, and bring only digital transactions; Two years later, Mr Modi is silent; The truth is that he singlehandedly destroyed the economy, lives and livelihoods.\"\n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] It is a big reform which no one expected and will have a huge impact on people who are hoarding money and not disclosing money for tax purposes mortgage major HDFC Chairman Deepak Parekh said. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] More than 99 per cent of the banned cash returned to the system, which raised questions over the government's drastic move to check black money.\n",
+        "aspect list": [
+            "control black money"
+        ]
+    },
+    {
+        "sentence": "[unused] The Tripura Chief Minister said that the move is aimed at diverting the attention of people from genuine problems of the country being faced by the people. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Although markets and other businesses in different parts of the state witnessed low key activity due to the demonetisation the citizens particularly the common people praised it as a step towards freeing the country of black money, rattled shopkeepers refused to accept the currency notes of demonetised denominations and wanted only Rs 100 and below. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] But I support the step hoping that the negative impact of black money will be checked and circulation of fake currency will be stopped in the near future. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Maharashtra Finance Minister Sudhir Mungantiwar today urged people not to panic in the wake of demonetisation of old Rs 500 and Rs 1 000 notes as the state government has made elaborate arrangements for their exchange at bank branches. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] Questioning the move, CPI(M) General Secretary Sitaram Yechury alleged that the demonetisation \"decimated the informal sector\".\n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused]  Lashing out at Narendra Modi government for scrapping Rs 1000 and 500 notes CPI M Bengal unit secretary Surya Kanta Mishra today accused BJP of replacing governance into a circus in the country. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] However this is the maximum that can be done at this stage nevertheless it is a body blow to the future of black money in India he said. \n",
+        "aspect list": [
+            "control black money"
+        ]
+    },
+    {
+        "sentence": "[unused] With 3,459 million e-Money transactions, India was only behind Japan and the US (data on China not available) in 2017 with respect to volume of e-Money transactions, the report said.\n",
+        "aspect list": [
+            "money digitization"
+        ]
+    },
+    {
+        "sentence": "[unused] Despite a large growth in digital payments after demonetisation of \u20b9 500 and \u20b9 1,000 notes in 2016, cash is \"deeply embedded\" in the payment system in India, according to a new report from the Reserve Bank of India.\n",
+        "aspect list": [
+            "money digitization"
+        ]
+    },
+    {
+        "sentence": "[unused] Press Trust of India Mumbai Last Updated at November 8 2016 22 57 IST Bankers and industry leaders today welcomed the move to demonetise the Rs 500 and Rs 1 000 notes as a bold and revolutionary step and affirmed their commitment to smoothen the transition. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] The Government has given enough exemptions to ensure urgent needs are met. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Payments Council of India Chairman Naveen Surya described te move as extremely bold and much needed step to cure us from disease of cash in our society. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] But this will cause inconvenience to small traders and public who mainly deal in cash he said. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused]  Telangana Chief Minister K Chandrasekhar Rao has met the Governor and is understood to have expressed his displeasure on Centre reportedly reducing the states share of taxes and a likely negative impact of the decision to demonetise high currency notes. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Huge rush and long cues were witnessed at banks which opened today after a day s break as people jostled to get lower value currency and new banknotes to meet their daily basic needs. \n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] But 99.3 percent of the junked currency is back in the banking system, suggesting that only a miniscule portion was unaccounted illicit money or fake currency notes, and India's addiction to cash is now, perhaps stronger than ever.\n",
+        "aspect list": [
+            "control black money"
+        ]
+    },
+    {
+        "sentence": "[unused] Note ban only helped \"few crony capitalist friends of PM Modi, demonetisation was a black day for our democracy and our economy,\" the Congress said on Twitter.\n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] Taking the nation by surprise Prime Minister Narendra Modi yesterday night announced the demonetisation of Rs 1 000 and Rs 500 notes with effect from midnight making these notes invalid in a major assault on black money fake currency and corruption. \n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] The Agriculture Ministry has withdrawn from the Parliamentary Standing Committee on Finance its report that suggested the government's shock decision to demonetise old Rs 500/1,000 notes in November 2016 affected farmers' community, according to some committee members.\n",
+        "aspect list": [
+            "effect on public life",
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] Congress leader Rahul Gandhi on Sunday slammed the government over demonetisation, alleging that Prime Minister Narendra Modi's move four years ago was aimed at helping a few of his \"crony capitalist friends\" and had \"destroyed\" the Indian economy.\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] While cash usage has declined, it still dominates in transactions like purchase of property, where earlier too black money dominated.\n",
+        "aspect list": [
+            "money digitization"
+        ]
+    },
+    {
+        "sentence": "[unused] When reviewed in light of the RBI data on digital transactions for the last one year, which suggests an increase in the overall number of digital transactions post the demonetisation period, it must be noted that only 30 per cent of India\u2019s population is digitally included.\n",
+        "aspect list": [
+            "money digitization"
+        ]
+    },
+    {
+        "sentence": "[unused] While demonetisation was subsequently described as a policy boost to promoting digital payments, the original policy had very different stated targets.\n",
+        "aspect list": [
+            "money digitization"
+        ]
+    },
+    {
+        "sentence": "[unused] On the fourth anniversary of demonetisation, Prime Minister Narendra Modi on Sunday said the move helped in reducing black money, increase tax compliance and formalisation of the economy.\n",
+        "aspect list": [
+            "note ban",
+            "control black money"
+        ]
+    },
+    {
+        "sentence": "[unused] Congress leader and former Rajasthan deputy chief minister Sachin Pilot on Monday targeted the central government over demonetisation and said the country is still facing its brunt.\n",
+        "aspect list": [
+            "note ban"
+        ]
+    },
+    {
+        "sentence": "[unused] Dr Wankhede says with the number of suppliers and labs increasing every day , the testing will go up exponentially .\n",
+        "aspect list": [
+            "testing and vaccination"
+        ]
+    },
+    {
+        "sentence": "[unused] Never did Arka suspect that when the need did arise , he would have to take a five-day \u201c cinematic epic journey \u201d of 2,300km on a 100cc motorcycle to reach home .\n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] And once the test results start coming in and if a large number of people test positive and require hospitalisation , India will find it difficult to cope .\n",
+        "aspect list": [
+            "healthcare situation"
+        ]
+    },
+    {
+        "sentence": "[unused] Ms Bhosale , who headed the team that designed the coronavirus testing kit called Patho Detect , said it was done `` in record time '' - six weeks instead of three or four months .\n",
+        "aspect list": [
+            "testing and vaccination"
+        ]
+    },
+    {
+        "sentence": "[unused] India on Sunday (April 10, 2022) began administering precaution dose of Covid-19 vaccines at private vaccination centres to all aged above 18 years, who have completed nine months since the administration of their second dose.\n",
+        "aspect list": [
+            "testing and vaccination"
+        ]
+    },
+    {
+        "sentence": "[unused] This corpus will be used to give a monthly financial support or stipend from 18 years of age, for the next five years to take care of the beneficiary\u2019s personal requirements during higher education and on reaching the age of 23 years, they will get the corpus amount as a lump-sum.\n",
+        "aspect list": [
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] `` You know the state of the healthcare facilities in the country ?\n",
+        "aspect list": [
+            "healthcare situation"
+        ]
+    },
+    {
+        "sentence": "[unused] \u201c I was worried whether I would make it for my wife \u2019 s delivery .\n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] We used open fields for ablutions and ate whatever we could when we found a eatery or dhaba open on the highway .\n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] Amid rising Covid-19 cases across the country , the plight of migrant workers has taken centre stage as many are asking why Prime Minister Narendra Modi announced a nationwide lockdown on the evening of March 24 with only a four-hour notice leaving the country \u2019 s most vulnerable sections to face the fallout .\n",
+        "aspect list": [
+            "effect on public life",
+            "Lockdown"
+        ]
+    },
+    {
+        "sentence": "[unused] Many migrants , walking or cramming themselves on the flatbeds of trucks , lost their lives in mishaps .\n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] Many have been walking for days , some with families including small children , on deserted highways with little access to food or water .\n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] They were made to sit on a street corner in the Bareilly district and doused with hose pipes , prompting anger on social media .\n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] Women and younger workers have been disproportionately affected. \n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] The coronavirus pandemic has worsened existing income inequalities between India's super-rich and its crores of unskilled workers - many of whom are often unemployed for long periods and struggle to access basic healthcare and sanitation - non-profit group Oxfam said Monday in a report to be tabled at the World Economic Forum at Switzerland's Davos.\n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] They started their rigorous journeys home - back to villages in far-away states - on foot, sometimes hitching a ride.\n",
+        "aspect list": [
+            "effect on public life"
+        ]
+    },
+    {
+        "sentence": "[unused] As the lockdown hit India to stop the spread of coronavirus, lakhs of people lost their jobs.\n",
+        "aspect list": [
+            "effect on public life",
+            "Lockdown"
+        ]
+    },
+    {
+        "sentence": "[unused] Random testing of coronavirus will be held across Delhi's airports, railway and bus stations, the Delhi government declared on Tuesday amid a surge in infections that is seen as the emergent second wave of the virus.\n",
+        "aspect list": [
+            "testing and vaccination"
+        ]
+    },
+    {
+        "sentence": "[unused] With the surge in coronavirus cases, the number of testing is also increasing around the country, with the government labs setting record of testing 4,42,031 samples in the last 24 hours said the Ministry of Health & Family Welfare on Sunday.\n",
+        "aspect list": [
+            "testing and vaccination",
+            "government action"
+        ]
+    },
+    {
+        "sentence": "[unused] Delhi, which reported its biggest single-day spike on Tuesday with over 28,000 infections, is struggling to provide proper medical treatment to critical patients.\n",
+        "aspect list": [
+            "healthcare situation"
+        ]
+    },
+    {
+        "sentence": "[unused] Overwhelmed by the unprecedented number of deaths, Dr Bhim Rao Ambedkar Memorial Hospital in Raipur has run out of space to store bodies.\n",
+        "aspect list": [
+            "healthcare situation"
+        ]
+    },
+    {
+        "sentence": "[unused] With less than 70 million doses delivered thus far, though, and a population of more than 1.3 billion, India faces a staggering challenge.\n",
+        "aspect list": [
+            "testing and vaccination"
+        ]
+    },
+    {
+        "sentence": "[unused] Amid rising coronavirus cases in the country, AIIMS Director Dr Randeep Guleria has said that a strict lockdown should be imposed in areas where the COVID-19 case positivity rate is over 10 per cent or the bed occupancy is above 60 per cent.\n",
+        "aspect list": [
+            "Lockdown"
+        ]
+    },
+    {
+        "sentence": "[unused] Private hospitals with more than 100 beds will have to reserve 30% of total normal and ICU (Intensive Care Unit) beds for Covid patients, the Delhi government has ordered, amid concerns that the more rapid second wave of infections might overwhelm the national capital's health infrastructure.\n",
+        "aspect list": [
+            "healthcare situation",
+            "healthcare situation"
+        ]
+    },
+    {
+        "sentence": "[unused] Today, vaccinations opened for those above 45 year who do not have other illnesses, but those opting for it are from all age groups, including healthcare workers who did not so far take it.\n",
+        "aspect list": [
+            "testing and vaccination"
+        ]
+    },
+    {
+        "sentence": "[unused] The government said safety measures for Covid should be rigorously observed in public places, especially in markets and malls.\n",
+        "aspect list": [
+            "government action"
+        ]
+    }
+]
