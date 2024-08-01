@@ -42,12 +42,12 @@ from torch import cuda
 device = 'cuda' if cuda.is_available() else 'cpu'
 
 #data_folder = sys.argv[1]#
-data_folder = '/home/alapan/media_bias/allinone5/'
+data_folder = '/home/name/media_bias/allinone5/'
 #output_folder = sys.argv[2]#
-output_folder = '/home/alapan/media_bias/temp5/'
+output_folder = '/home/name/media_bias/temp5/'
 # topic = sys.argv[1]
-# data_folder = f'/home/alapan/media_bias/all3one/dataset/{topic}'
-# output_folder = f'/home/alapan/media_bias/all3one/dataset/{topic}'
+# data_folder = f'/home/name/media_bias/all3one/dataset/{topic}'
+# output_folder = f'/home/name/media_bias/all3one/dataset/{topic}'
 aspects_file = os.path.join(data_folder,"relations_aspects.txt")
 sents_file = os.path.join(data_folder,"relations_sentiments.txt")
 idx_aspects_dict = dict()
@@ -266,7 +266,7 @@ train_df = pd.DataFrame(columns=columns)
 train_df["sentence"] = train_sequences
 train_df["hypothesis"] = train_hypotheses
 train_df["label"] = labels
-# train_df.to_csv(f'/home/alapan/media_bias/all3one/dataset/{topic}/train.csv')
+# train_df.to_csv(f'/home/name/media_bias/all3one/dataset/{topic}/train.csv')
 train_df.to_csv(data_folder+'all_aspect_train.csv')
 train_dataset = Dataset.from_pandas(train_df)
 
@@ -279,7 +279,7 @@ val_df = pd.DataFrame(columns=columns)
 val_df["sentence"] = val_sequences
 val_df["hypothesis"] = val_hypotheses
 val_df["label"] = labels
-# val_df.to_csv(f'/home/alapan/media_bias/all3one/dataset/{topic}/dev.csv')
+# val_df.to_csv(f'/home/name/media_bias/all3one/dataset/{topic}/dev.csv')
 val_df.to_csv(data_folder+'all_aspect_dev.csv')
 val_dataset = Dataset.from_pandas(val_df)
 
